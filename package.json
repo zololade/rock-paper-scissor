@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/zololade/rock-paper-scissor/issues"
   },
-  "homepage": "https://github.com/zololade/rock-paper-scissor#readme"
+  "homepage": "https://github.com/zololade/rock-paper-scissor#readme",
+  "dependencies": {
+    "vite": "^6.2.0"
+  },
+  "devDependencies": {
+    "sass-embedded": "^1.85.1"
+  }
 }
